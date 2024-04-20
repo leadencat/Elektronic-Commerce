@@ -6,7 +6,8 @@ Update the '.env' file to your username and password, run the schema from MySQL.
 
 ## Links
 GitHub Repo: https://github.com/leadencat/Elektronic-Commerce 
-Video:
+
+No Video Submission. Hvaing login issues with MySql.
 
 ## License 
 MIT License
